@@ -1,4 +1,4 @@
-# Simulation PowerWorld
+# Simulation en PowerWorld
 
 ## Objectif
 
@@ -28,6 +28,6 @@ L'étude permet d'observer l'évolution des flux de puissance, des niveaux de te
 
 ## Auteur
 
-Hamza El Aoula  
+Hamza El-AOULA 
 Étudiant en Génie Électrique et Énergies Renouvelables  
 ENSET Mohammedia
