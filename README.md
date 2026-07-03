@@ -1,4 +1,4 @@
-# Simulation PowerWorld - TP2 Partie 2
+# Simulation PowerWorld
 
 ## Objectif
 
